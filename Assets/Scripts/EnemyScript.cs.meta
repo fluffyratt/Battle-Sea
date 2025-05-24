@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c1f58a1f187d8134286bd444eb76580e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyMissilePrefab: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
